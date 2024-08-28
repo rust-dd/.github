@@ -1,4 +1,4 @@
-## Hello, Rustacean! 🦀
+## Hello, Rustaceans! 🦀
 
 Welcome to the *rust-dd* GitHub organization. We live and breathe Rust, work with Rust, and firmly believe that Rust is the future of programming.
 
